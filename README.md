@@ -6,7 +6,7 @@ This is a to-do list web app having a simple and intuitive interface that helps 
 
 ## Features
 
-This website includes the following features:
+This website has the following features:
 
 * **Task Creation:** Users can easily create new tasks by entering them into the input field and pressing Enter or clicking the "Add" button.
 * **Task Completion:** Users can mark tasks as completed by clicking the checkbox before each task. Completed tasks are visually indicated, making it easy to track progress.
